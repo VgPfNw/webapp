@@ -1,0 +1,16 @@
+webapp的框架：
+
+	数据库　--> aiomysql 
+	|
+		>>>>>通过ORM连接
+    |
+	后台处理程序　--> aiohttp
+	|
+		>>>>>通过jinja2引擎 连接　
+	|
+	前端页面　-->　templates
+	|
+	
+	|
+	
+
